@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Continued development](#Continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tduarte23/QR-code-component)
-- Live Site URL: [Add live site URL here](https://qr-code-component-sigma-five.vercel.app)
+- Solution URL: [](https://github.com/tduarte23/QR-code-component)
+- Live Site URL: [Live app](https://qr-code-component-sigma-five.vercel.app)
 
 ### Built with
 
@@ -47,6 +47,6 @@ em HTML, CSS, JS , React-Js e angular como foco.
 
 ## Author
 
-- Website - [Add your name here](https://portfolio-liard-xi.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tduarte23)
+- Website - [Thomas Duarte](https://portfolio-liard-xi.vercel.app)
+- Frontend Mentor - [@tduarte23](https://www.frontendmentor.io/profile/tduarte23)
 
